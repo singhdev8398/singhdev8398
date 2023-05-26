@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-----------------------------------------------------------------------------
+### 🧑‍💻 About me
+ * 🤔   Exploring Artificial Intelligence.
+ * 🎓   Studying Data Science, Machine Learning and Deep Learning at Machine Learning  Bootcamp iNeuron
+ * 🌱   Learning more about Databases, Data Structures and Algorithm, and Systems Design.
+
 
