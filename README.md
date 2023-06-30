@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 
 ### Connect to Me
-* https://www.linkedin.com/in/devendra-singh-92867b20b/
-* singhdevendra8398@gmail.com
+* [Devendra Singh](https://www.linkedin.com/in/devendra-singh-92867b20b/)
+* [Mail Me](singhdevendra8398@gmail.com)
 
 
 
