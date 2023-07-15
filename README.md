@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/singhdev8398/singhdev8398/assets/112711763/5a089b6b-3638-45bc-9c0e-6a6a8ba85bd3)
 ![image](https://github.com/singhdev8398/singhdev8398/assets/112711763/d96d2cf6-6546-4634-b09d-942aafee8049)
 ![image](https://github.com/singhdev8398/singhdev8398/assets/112711763/e229aa50-ef63-47ec-9127-234a9818fb11)
+![image](https://www.google.com/search?authuser=2&sxsrf=AB5stBiEOUYF6esF9RYF2rYyelI6x1Lhiw:1689425378553&q=sklearn&tbm=isch&sa=X&ved=2ahUKEwiunsD835CAAxXjmVYBHWW4BSMQ0pQJegQIFBAB&biw=1707&bih=793&dpr=1.13#imgrc=8cij3GdoNwkDdM)
 
  * 🛠️ ![image](https://github.com/singhdev8398/singhdev8398/assets/112711763/f1cfccec-ce56-48cc-8a5b-0c899b3161d8)
 ![image](https://github.com/singhdev8398/singhdev8398/assets/112711763/a7604876-509b-4657-846c-e64ebbc52e2d)
