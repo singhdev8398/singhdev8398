@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -----------------------------------------------------------------------------
 ### 🧑‍💻 About me
  * 🤔   Exploring Artificial Intelligence.
- * 🎓   Studying Data Science, Machine Learning and Deep Learning at Machine Learning  Bootcamp iNeuron
+ * 🎓   Studying Data Science, Machine Learning and Deep Learning at iNeuron.ai
  * 🌱   Learning more about Databases, Data Structures and Algorithm, and Systems Design.
  
  ### Tech/Tools
