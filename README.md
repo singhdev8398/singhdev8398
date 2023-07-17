@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 -----------------------------------------------------------------------------
 ### 🧑‍💻 About me
+As a Master's student in Mathematics and Computing making the exciting transition to Data Science and Machine Learning, I am a highly motivated individual with a passion for using mathematical and computational skills to unlock the potential of data. My academic background in mathematics and computing equips me with a strong foundation that complements the challenges and opportunities in the field of data science and machine learning.
  * 🤔   Exploring Artificial Intelligence.
  * 🎓   Studying Data Science, Machine Learning and Deep Learning at iNeuron.ai
  * 🌱   Learning more about Databases, Data Structures and Algorithm, and Systems Design.
